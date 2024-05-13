@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nandani
 - 👀 I’m interested in Cyber Security and Game Development
 - 🌱 I’m currently learning C++ and C# 
-- 💞️ I’m looking to contribute to Open Source Development
+- 💞️ I’m looking to contribute in Open Source Development
 - 📫 How to reach me - nandanisinghpardhi2086@gmail.com
 
 <!---
